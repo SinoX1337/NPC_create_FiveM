@@ -1,7 +1,8 @@
 ## by SinoX
 
 local coordonate = {
-    {1014.333,-3194.932,-38.993 -1,"Tobinator",98.50,0x80e59f2e,"a_m_y_acult_02"},
+    {1014.333,-3194.932,-38.993 -1,"Name",98.50,0x80e59f2e,"a_m_y_acult_02"},
+   ## example {x,y,z -1,"Name",Heading,ped_hash,"ped name"}
 	
 }
 
